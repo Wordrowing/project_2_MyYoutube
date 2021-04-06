@@ -2,7 +2,7 @@
 
 ## Используемые технологии:
 -HTML
--css
+-CSS
 -Normalize.css
 -SVG Sprintes
 
